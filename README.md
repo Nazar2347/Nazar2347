@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm 23y old student
+Enthusiast in Military VR Simulators
 
 <!--
 **Nazar2347/Nazar2347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

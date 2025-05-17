@@ -7,7 +7,7 @@
   - Catch2/TDD,
   - Game Developing Fundamentals
 - 🤝 I’m looking to collaborate on any 3D game , to grasp practical skills in team-work coloborations
-- 👀 I’m looking for mentor with writing a proper 3D game using OpenGL and Raylib open-source library
+- 👀 I’m looking for mentorship with writing a proper 3D game using OpenGL and Raylib open-source library
 - 📫 How to reach me: [Telegram](), [LinkedIN](https://www.linkedin.com/in/nazar-dunas-84b57927a/)
 
 

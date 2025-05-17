@@ -8,7 +8,7 @@
   - Game Developing Fundamentals
 - 🤝 I’m looking to collaborate on any 3D game , to grasp practical skills in team-work coloborations
 - 👀 I’m looking for mentor with writing a proper 3D game using OpenGL and Raylib open-source library
-- 📫 How to reach me: [Telegram](), [LinkedIN](https://www.linkedin.com/feed/)
+- 📫 How to reach me: [Telegram](), [LinkedIN](https://www.linkedin.com/in/nazar-dunas-84b57927a/)
 <!--
 **Nazar2347/Nazar2347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

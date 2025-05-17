@@ -1,4 +1,6 @@
 ## Hi there 👋
+## I`m 24 y/o, student, veteran.
+## I`m passionate in Game Developing and creation of VR Simulation enviroments for educational purposes
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

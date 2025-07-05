@@ -2,7 +2,7 @@
 ## I`m 24 Nazar y/o, student, veteran.
 ### Passionate in 🎮 Game Developing and creation of 🥽 VR Simulation  enviroments for educational purposes 🧑🏻‍🏫
 
-- 🔭 I’m currently working on [Battleship](https://github.com/Nazar2347/Battleship) - my third game 
+- 🔭 I’m currently working on [SNAKE](https://github.com/Nazar2347/Snake) - my third game 
 - 🌱 I’m currently learning: 
   - Catch2/TDD,
   - Game Developing Fundamentals

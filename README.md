@@ -1,13 +1,12 @@
 ## Hi there 👋
-## I`m 24 Nazar y/o, student, veteran.
-### Passionate in 🎮 Game Developing and creation of 🥽 VR Simulation  enviroments for educational purposes 🧑🏻‍🏫
+## I`m Nazar! 24 y/o, student, veteran.
+### Passionate in 🎮 Game Developing and creation of 🥽 VR Simulation  enviroments for educational purposes ⚡📚
 
 - 🔭 I’m currently working on [SNAKE](https://github.com/Nazar2347/Snake) - my third game 
 - 🌱 I’m currently learning: 
   - Catch2/TDD,
   - Game Developing Fundamentals
-- 🤝 I’m looking to collaborate on any 3D game , to grasp practical skills in team-work coloborations
-- 👀 I’m looking for mentorship about developing a proper 3D game using OpenGL and Raylib open-source library
+- 🤝 👀 I’m looking to collaborate on any 3D/2D game projects, to level-up practical skills in team-work coloborations and sharpen my hard skills⚡
 - 📫 How to reach me: [Telegram](), [LinkedIN](https://www.linkedin.com/in/nazar-dunas-84b57927a/)
 
 

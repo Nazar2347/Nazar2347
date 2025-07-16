@@ -27,7 +27,7 @@ The books which read or currently reading + my personal opinion on them 🙃
 - Elegant objects [link](https://www.yegor256.com/elegant-objects.html)
 - Level up [link](https://www.amazon.com/Level-Guide-Great-Video-Design/dp/1394298765)
   
-![BookShelf](https://drive.google.com/file/d/1-jOKKUV_jsBjWWHF_pbWiGjmTE4Lul_d/view?usp=sharing)
+![BookShelf](https://imgur.com/a/TsmjDHE)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--

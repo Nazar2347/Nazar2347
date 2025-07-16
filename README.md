@@ -28,7 +28,7 @@ The books which read or currently reading + my personal opinion on them 🙃
 - Level up [link](https://www.amazon.com/Level-Guide-Great-Video-Design/dp/1394298765)
   
 ![BookShelf](https://github.com/user-attachments/assets/6c89aa3d-ec7e-40a7-a448-2abd463a21b7)
-<img width="1636" height="694" alt="Image" src="https://github.com/user-attachments/assets/6c89aa3d-ec7e-40a7-a448-2abd463a21b7" />
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--

@@ -7,7 +7,7 @@
   - Catch2/TDD,
   - Game Developing Fundamentals
 - 🤝 👀 I’m looking to collaborate on any 3D/2D game projects, to level-up practical skills in team-work coloborations and sharpen my hard skills⚡
-- 📫 How to reach me: [Telegram](), [LinkedIN](https://www.linkedin.com/in/nazar-dunas-84b57927a/)
+- 📫 How to reach me: [Telegram](https://t.me/Nazar2347), [LinkedIN](https://www.linkedin.com/in/nazar-dunas-84b57927a/)
 
 
 # 💻 Tech Stack:

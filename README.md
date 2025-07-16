@@ -19,6 +19,16 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Nazar2347&icon=5&color=0)](https://visitcount.itsvg.in)
 
+
+# My bookshelf 📚
+The books which read or currently reading + my personal opinion on them 🙃
+- Design Patterns [link](https://refactoring.guru/design-patterns/book)
+- Game Programing Patterns [link](https://gameprogrammingpatterns.com/)
+- Elegant objects [link](https://www.yegor256.com/elegant-objects.html)
+- Level up [link](https://www.amazon.com/Level-Guide-Great-Video-Design/dp/1394298765)
+  
+![BookShelf](https://drive.google.com/file/d/1-jOKKUV_jsBjWWHF_pbWiGjmTE4Lul_d/view?usp=sharing)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Nazar2347/Nazar2347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

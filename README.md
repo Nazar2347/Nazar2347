@@ -23,9 +23,9 @@
 # My bookshelf 📚
 The books which read or currently reading + my personal opinion on them 🙃
 - Design Patterns [link](https://refactoring.guru/design-patterns/book)
-- Game Programing Patterns [link](https://gameprogrammingpatterns.com/)
+- Game Programing Patterns (reading) [link](https://gameprogrammingpatterns.com/)
 - Elegant objects [link](https://www.yegor256.com/elegant-objects.html)
-- Level up [link](https://www.amazon.com/Level-Guide-Great-Video-Design/dp/1394298765)
+- Level up (reading) [link](https://www.amazon.com/Level-Guide-Great-Video-Design/dp/1394298765)
   
 ![BookShelf](https://github.com/user-attachments/assets/6c89aa3d-ec7e-40a7-a448-2abd463a21b7)
 

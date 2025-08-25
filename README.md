@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [SNAKE](https://github.com/Nazar2347/Snake) - my third small game 
 - 🌱 I’m currently learning: 
-  - Catch2/TDD,
+  - UnrealEngine 5.6,
   - Game Developing Fundamentals
 - 🤝 👀 I’m looking to collaborate on any 3D/2D game projects, to contibute something to the public and level-up practical skills in team-work coloborations and sharpen my hard skills⚡
 - 📫 How to reach me: [Telegram](https://t.me/Nazar2347), [LinkedIN](https://www.linkedin.com/in/nazar-dunas-84b57927a/)
